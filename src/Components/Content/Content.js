@@ -23,7 +23,7 @@ const Content = () => {
   };
 
   return (
-    <div className="bg-[#ECEFF1]  p-5">
+    <div className="bg-[#ECEFF1] p-5  lg:pt-16 lg:pb-14">
       <div className="container mx-auto max-w-6xl">
         <div className="flex justify-between md:w-4/5">
           <div className="flex items-center font-bold text-black">
